@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Terminal</title>
+    <link>/</link>
+    <description>Recent content on Terminal</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>/posts/firstpost/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/posts/firstpost/</guid>
+      <description>&lt;p&gt;Header:&#xA;“Tech Freedom for Small Business.”&#xA;Affordable, self-hosted tools tailored to your workflow—no cloud lock-in, no monthly surprises.&#xA;Subheading:&#xA;We deploy powerful open-source platforms like Nextcloud, Jitsi, Invoice Ninja, and more—putting you in control of your data and infrastructure.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;✅ Starter Package – $499&#xA;•&#x9;Migration from cloud systems&#xA;•&#x9;Self-hosted reporting/forms or site setup&#xA;•&#x9;Local or private server configuration&#xA;•&#x9;Backup automation&#xA;•&#x9;1:1 training + documentation&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;🔧 Services We Offer&#xA;•&#x9;Internal dashboards &amp;amp; reporting tools&#xA;•&#x9;Secure video conferencing (Jitsi setup)&#xA;•&#x9;Document sharing &amp;amp; collaboration (Nextcloud)&#xA;•&#x9;Business forms &amp;amp; automation&#xA;•&#x9;Private cloud backup solutions&#xA;•&#x9;Local networking &amp;amp; IT security&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
